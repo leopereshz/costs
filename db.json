@@ -1,0 +1,74 @@
+{
+  "projects": [
+    {
+      "name": "teste",
+      "budget": "4000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "projeto atualizado",
+      "budget": "1300",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 600,
+      "services": [
+        {
+          "name": "Limpeza dental",
+          "cost": "200",
+          "description": "limpeza geral",
+          "id": "55a70610-3deb-4712-9641-2fa42af88a5d"
+        },
+        {
+          "cost": "100",
+          "name": "remoção de cárie",
+          "description": "limpeza geral",
+          "id": "8aa89f3d-6d20-42de-9b80-352d900f9282"
+        },
+        {
+          "name": "extração de dente",
+          "cost": "300",
+          "description": "dente siso",
+          "id": "89670953-8845-482c-a4b2-fbd9f60db166"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "teste 3",
+      "budget": "15000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
